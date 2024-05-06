@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Moqah.pk/static/css/main.eb653d20.css",
+    "main.js": "/Moqah.pk/static/js/main.173adda9.js",
+    "static/js/453.6eb5dcc5.chunk.js": "/Moqah.pk/static/js/453.6eb5dcc5.chunk.js",
+    "index.html": "/Moqah.pk/index.html",
+    "static/media/moqah.svg": "/Moqah.pk/static/media/moqah.4ee059bb7081190fabc24faec70bf445.svg",
+    "main.eb653d20.css.map": "/Moqah.pk/static/css/main.eb653d20.css.map",
+    "main.173adda9.js.map": "/Moqah.pk/static/js/main.173adda9.js.map",
+    "453.6eb5dcc5.chunk.js.map": "/Moqah.pk/static/js/453.6eb5dcc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb653d20.css",
+    "static/js/main.173adda9.js"
+  ]
+}
